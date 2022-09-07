@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/home/ritavaz02/Documents/dsmeta/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
